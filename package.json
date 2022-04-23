@@ -46,7 +46,7 @@
     "vue-router": "^4.0.12"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^0.13.1",
+    "@antfu/eslint-config": "^0.20.7",
     "@commitlint/cli": "^16.2.3",
     "@commitlint/config-conventional": "^16.2.1",
     "@cypress/vite-dev-server": "^2.2.0",
@@ -108,7 +108,7 @@
     "vite-plugin-vue-layouts": "^0.6.0",
     "vite-plugin-windicss": "^1.5.1",
     "vite-ssg": "^0.19.0",
-    "vue-tsc": "^0.29.0",
+    "vue-tsc": "^0.34.9",
     "windicss": "^3.3.0"
   },
   "engines": {
