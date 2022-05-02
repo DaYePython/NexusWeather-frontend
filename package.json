@@ -35,7 +35,7 @@
     "@pinia/testing": "^0.0.11",
     "@vueuse/core": "^8.2.6",
     "@vueuse/head": "^0.7.2",
-    "axios": "^0.26.1",
+    "axios": "^0.27.2",
     "axios-case-converter": "^0.9.0",
     "nprogress": "^0.2.0",
     "pinia": "^2.0.2",
